@@ -1,16 +1,12 @@
-# 👋 Brînza Daniel
+# 👋 dqnyb
 
 ## 📌 Descriere
 
-🎓 Sunt student la Universitatea Națională de Știință și Tehnologie Politehnica din București, specializarea Calculatoare și Tehnologia Informației.
-
-🛠️ Pasionat de programare, algoritmi, inteligență artificială și dezvoltare web, mă concentrez pe construirea de soluții smart și eficiente.
-
-💡 Am experiență practică în proiecte precum chatboți inteligenți, platforme de testare automate, sisteme de gestiune și aplicații de procesare de imagine, lucrând cu tehnologii precum Python, Java, C, OpenAI, Flask, LangChain și multe altele.  
-
-🚀 Îmi place să experimentez, să învăț și să colaborez în echipe unde pot combina creativitatea cu rigoarea tehnică.  
-
-📈 Mă dezvolt constant în domenii precum machine learning, dezvoltare full-stack și procesarea automată a datelor.
+🎓 Computer Science student at the National University of Science and Technology Politehnica Bucharest.
+🛠️ Passionate about programming, algorithms, AI, and web development.
+💡 Experienced with smart chatbots, automated quiz platforms, management systems, and image processing apps.
+🚀 Always learning, experimenting, and building efficient, real-world solutions.
+📈 Growing in machine learning, full-stack development, and data automation.
 
 
 
