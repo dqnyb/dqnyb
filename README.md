@@ -1,4 +1,4 @@
-# 👋 dqnyb
+<img src="thumb.png" alt="GitHub Banner" width="100%" />
 
 ## 📌 About Me
 
