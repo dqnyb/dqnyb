@@ -3,7 +3,6 @@
 ## 📌 Descriere
 
 🎓 Computer Science student at the National University of Science and Technology Politehnica Bucharest.
-
 🛠️ Passionate about programming, algorithms, AI, and web development.
 
 💡 Experienced with smart chatbots, automated quiz platforms, management systems, and image processing apps.
