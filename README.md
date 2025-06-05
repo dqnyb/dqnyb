@@ -47,7 +47,7 @@
 ## 📬 Contact
 
 - 📧 Email: [dqnyb@gmail.com](mailto:dqnyb@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/dqnyb](https://linkedin.com/in/dqnyb)
+- 💼 LinkedIn: [linkedin.com/in/danielbrinza2](https://www.linkedin.com/in/danielbrinza2/)
 
 ---
 
