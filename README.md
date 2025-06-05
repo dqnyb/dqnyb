@@ -48,7 +48,7 @@
   Core libc functions implemented from scratch in C (no dependencies).
 
 - 💬 [ChatBot-](https://github.com/dqnyb/ChatBot-)  
-  JavaScript-based conversational bot with keyword recognition.
+  Flask-based conversational chatbot with dynamic responses. JavaScript is used for the frontend UI.
 
 - 🔍 [HtmlClonesDetector](https://github.com/dqnyb/HtmlClonesDetector)  
   CLI tool to detect structural similarities in HTML documents.
