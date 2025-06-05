@@ -21,13 +21,22 @@
 
 ---
 
-## 📂 Proiecte populare
+## 🚀 All Public Repositories
 
-- 🔹 [ChatBot Interactiv cu Flask și OpenAI](https://github.com/dqnyb/chatbot-flask-openai)  
-  🧠 Chat inteligent care personalizează conversația în funcție de nume și interese.
+- 🏛️ [MuseumManager](https://github.com/dqnyb/MuseumManager)  
+  Java-based application for managing museum exhibits and visitor interactions.
 
-- 🔹 [Website Portofoliu](https://github.com/dqnyb/portofoliu-site)  
-  🌐 Portofoliu responsive cu design curat, HTML/CSS/JS pur.
+- ✈️ [Air-Traffic-Control](https://github.com/dqnyb/Air-Traffic-Control)  
+  Web-based simulation of an air traffic control system using HTML and JavaScript.
+
+- 🗳️ [SmartVote-App](https://github.com/dqnyb/SmartVote-App)  
+  Secure and user-friendly voting application developed in Java.
+
+- 🌐 [Async-Web-Server](https://github.com/dqnyb/Async-Web-Server)  
+  High-performance asynchronous web server implemented in C.
+
+- 💻 [Mini-Shell](https://github.com/dqnyb/Mini-Shell)  
+  Lightweight Unix shell clone built in C for educational purposes.
 
 ---
 
