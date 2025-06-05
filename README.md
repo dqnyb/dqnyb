@@ -1,4 +1,4 @@
-<img src="thumb.png" alt="GitHub Banner" width="100%" />
+<img src="dqnyb.png" alt="GitHub Banner" width="100%" />
 
 ## 📌 About Me
 
