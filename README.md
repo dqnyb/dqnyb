@@ -66,7 +66,7 @@
 
 ## 📬 Contact
 
-- 📧 Email: [dqnyb@gmail.com](mailto:brinza.daniel2003@gmail.com)  
+- 📧 Email: [brinza.daniel2003@gmail.com](mailto:brinza.daniel2003@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/danielbrinza2](https://www.linkedin.com/in/danielbrinza2/)
 
 ---
