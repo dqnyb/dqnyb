@@ -24,19 +24,35 @@
 ## 🚀 All Public Repositories
 
 - 🏛️ [MuseumManager](https://github.com/dqnyb/MuseumManager)  
-  Java-based application for managing museum exhibits and visitor interactions.
+  Java app for managing museums, exhibits, and user interactions.
 
 - ✈️ [Air-Traffic-Control](https://github.com/dqnyb/Air-Traffic-Control)  
-  Web-based simulation of an air traffic control system using HTML and JavaScript.
+  Java app for managing Air-Traffic-Control
 
 - 🗳️ [SmartVote-App](https://github.com/dqnyb/SmartVote-App)  
-  Secure and user-friendly voting application developed in Java.
+  Java-based voting system with secure vote handling and clean UI.
 
-- 🌐 [Async-Web-Server](https://github.com/dqnyb/Async-Web-Server)  
-  High-performance asynchronous web server implemented in C.
+- ⚙️ [Async-Web-Server](https://github.com/dqnyb/Async-Web-Server)  
+  Asynchronous, performant HTTP web server built in C from scratch.
 
 - 💻 [Mini-Shell](https://github.com/dqnyb/Mini-Shell)  
-  Lightweight Unix shell clone built in C for educational purposes.
+  Educational Unix shell written in C, supporting job control and piping.
+
+- 🔥 [Parallel-Firewall](https://github.com/dqnyb/Parallel-Firewall)  
+  Multithreaded packet filter system simulating a firewall engine.
+
+- 🧠 [Memory-Allocator](https://github.com/dqnyb/Memory-Allocator)  
+  A malloc/free implementation in C — custom memory allocator.
+
+- 🧱 [Mini-libc](https://github.com/dqnyb/Mini-libc)  
+  Core libc functions implemented from scratch in C (no dependencies).
+
+- 💬 [ChatBot-](https://github.com/dqnyb/ChatBot-)  
+  JavaScript-based conversational bot with keyword recognition.
+
+- 🔍 [HtmlClonesDetector](https://github.com/dqnyb/HtmlClonesDetector)  
+  CLI tool to detect structural similarities in HTML documents.
+
 
 ---
 
