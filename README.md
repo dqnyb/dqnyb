@@ -1,14 +1,18 @@
-# 👋 Salut! Eu sunt dqnyb
+# 👋 Brînza Daniel
 
-🎓 Student pasionat de programare, web development și AI.  
-💬 Îmi place să învăț lucruri noi și să creez proiecte interactive.  
-🚀 În prezent lucrez la un chatbot inteligent folosind Python, Flask, OpenAI și JavaScript.  
+🎓 Sunt student la Universitatea Națională de Știință și Tehnologie Politehnica din București, specializarea Calculatoare și Tehnologia Informației.
+🛠️ Pasionat de programare, algoritmi, inteligență artificială și dezvoltare web, mă concentrez pe construirea de soluții smart și eficiente care rezolvă probleme reale.
+💡 Am experiență practică în proiecte precum chatboți inteligenți, platforme de testare automate, sisteme de gestiune și aplicații de procesare de imagine, lucrând cu tehnologii precum Python, Java, C, OpenAI, Flask, LangChain și multe altele.
+🚀 Îmi place să experimentez, să învăț și să colaborez în echipe unde pot combina creativitatea cu rigoarea tehnică.
+📈 Mă dezvolt constant în domenii precum machine learning, dezvoltare full-stack și procesarea automată a datelor.
+
+
 
 ---
 
 ## 🛠️ Tehnologii & Tool-uri
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=py,js,html,css,flask,react,nodejs,git,github,vscode,figma" />
 </p>
 
