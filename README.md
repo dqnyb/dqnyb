@@ -1,6 +1,6 @@
 # 👋 dqnyb
 
-## 📌 Descriere
+## 📌 About Me
 
 🎓 Computer Science student at the National University of Science and Technology Politehnica Bucharest.  
 🛠️ Passionate about programming, algorithms, AI, and web development.  
@@ -13,10 +13,10 @@
 
 ---
 
-## 🛠️ Tehnologii & Tool-uri
+## 🛠️ Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,flask,react,nodejs,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,flask,git,haskell,prolog,matlab,,github,vscode,figma" />
 </p>
 
 ---
