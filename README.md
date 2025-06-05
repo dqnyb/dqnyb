@@ -16,7 +16,7 @@
 ## 🛠️ Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,flask,git,haskell,prolog,matlab,,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,flask,git,haskell,racket,matlab,,github,vscode,figma" />
 </p>
 
 ---
